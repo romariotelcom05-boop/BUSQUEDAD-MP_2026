@@ -1,4 +1,4 @@
-Plaintext
+
 pandas
 openpyxl
 requests
